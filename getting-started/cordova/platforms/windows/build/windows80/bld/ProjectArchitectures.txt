@@ -1,0 +1,1 @@
+C:\Users\Isaac\Documents\GitHub\platypi-app\getting-started\cordova\platforms\windows\CordovaApp.Windows80.jsproj;neutral
